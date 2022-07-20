@@ -83,13 +83,14 @@ var filteredItems = from item in items
     where net != 0
     let price = item.GetPriceFor(trader)
     where price != 0 && price < spending
-    let purchaseAmount = (spending / price)
+    let purchaseAmount = Math.Round((double)(spending / price), MidpointRounding.ToEven)
     where purchaseAmount < maxPurchase || maxPurchase == -1
     orderby purchaseAmount * net descending 
     select item;
 var bestItem = filteredItems.First();
+var dpurchaseAmount = Math.Round((double)(spending / bestItem.GetPriceFor(trader)), MidpointRounding.ToEven);
 Console.WriteLine("The best item to buy is {0} at {1} {2} times for {3} and selling it for {4}, you will in total loose {5} roubles.",
-    bestItem.Name, bestItem.FleaMarketPrice, spending/bestItem.GetPriceFor(trader), bestItem.FleaMarketPrice * spending/bestItem.GetPriceFor(trader), bestItem.GetPriceFor(trader), (spending/bestItem.GetPriceFor(trader)) * bestItem.GetIncomeFrom(trader) * -1);
+    bestItem.Name, bestItem.FleaMarketPrice, dpurchaseAmount, bestItem.FleaMarketPrice * dpurchaseAmount, bestItem.GetPriceFor(trader), (dpurchaseAmount) * bestItem.GetIncomeFrom(trader) * -1);
 Console.WriteLine("\nDone! Press any key to exit...");
 Console.ReadKey(true);
 /*foreach(var item in orderedItems)
