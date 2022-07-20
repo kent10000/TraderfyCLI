@@ -1,0 +1,17 @@
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\bin\Debug\net6.0\wrappertest.exe
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\bin\Debug\net6.0\wrappertest.deps.json
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\bin\Debug\net6.0\wrappertest.runtimeconfig.json
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\bin\Debug\net6.0\wrappertest.dll
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\bin\Debug\net6.0\wrappertest.pdb
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Debug\net6.0\wrappertest.csproj.AssemblyReference.cache
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Debug\net6.0\wrappertest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Debug\net6.0\wrappertest.AssemblyInfoInputs.cache
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Debug\net6.0\wrappertest.AssemblyInfo.cs
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Debug\net6.0\wrappertest.csproj.CoreCompileInputs.cache
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Debug\net6.0\wrappertest.csproj.CopyComplete
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Debug\net6.0\wrappertest.dll
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Debug\net6.0\refint\wrappertest.dll
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Debug\net6.0\wrappertest.pdb
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Debug\net6.0\wrappertest.genruntimeconfig.cache
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Debug\net6.0\ref\wrappertest.dll

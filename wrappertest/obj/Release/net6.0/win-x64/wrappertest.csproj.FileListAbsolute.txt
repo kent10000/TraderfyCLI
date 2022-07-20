@@ -1,0 +1,17 @@
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\bin\Release\net6.0\win-x64\wrappertest.exe
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\bin\Release\net6.0\win-x64\wrappertest.deps.json
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\bin\Release\net6.0\win-x64\wrappertest.runtimeconfig.json
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\bin\Release\net6.0\win-x64\wrappertest.dll
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\bin\Release\net6.0\win-x64\wrappertest.pdb
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\bin\Release\net6.0\win-x64\Newtonsoft.Json.dll
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Release\net6.0\win-x64\wrappertest.csproj.AssemblyReference.cache
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Release\net6.0\win-x64\wrappertest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Release\net6.0\win-x64\wrappertest.AssemblyInfoInputs.cache
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Release\net6.0\win-x64\wrappertest.AssemblyInfo.cs
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Release\net6.0\win-x64\wrappertest.csproj.CoreCompileInputs.cache
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Release\net6.0\win-x64\wrappertest.csproj.CopyComplete
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Release\net6.0\win-x64\wrappertest.dll
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Release\net6.0\win-x64\refint\wrappertest.dll
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Release\net6.0\win-x64\wrappertest.pdb
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Release\net6.0\win-x64\wrappertest.genruntimeconfig.cache
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\obj\Release\net6.0\win-x64\ref\wrappertest.dll

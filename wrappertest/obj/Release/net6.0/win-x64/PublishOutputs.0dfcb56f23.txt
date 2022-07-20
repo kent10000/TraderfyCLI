@@ -1,0 +1,2 @@
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\bin\Release\net6.0\win-x64\publish\wrappertest.pdb
+C:\Users\kent\RiderProjects\wrappertest\wrappertest\bin\Release\net6.0\win-x64\publish\wrappertest.exe
